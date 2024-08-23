@@ -12,7 +12,17 @@ We are a team of three developers looking to find joy in making video games. Cur
 ### Erik Miller (BobMcBobFacey1)
 > Erik is 14 years old and loves making pixel art and music for the team. He holds skills in [Pixilart](https://www.pixilart.com/) and [Soundtrap](https://www.soundtrap.com/musicmakers).
 
+## 🌟 Highlighted Repositories
+
+- **[Expland](https://github.com/sebashtioon/Expland):** A game in development. Check out our progress if you’re interested!
+
+
+---
 ## Links
 > - [Our Discord Server](https://discord.gg/QNgcKCAJn3) </br>
 > - [YouTube Channel](https://www.youtube.com/@noeco.official)</br>
 > - [GitHub Organization](https://github.com/NoeCoOfficial)</br>
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+</p>
