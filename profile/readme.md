@@ -14,7 +14,7 @@ We are a team of three developers looking to find joy in making video games. Cur
 
 ## 🌟 Highlighted Repositories
 
-- **[Expland](https://github.com/sebashtioon/Expland):** A game in development. Check out our progress if you’re interested!
+- **[Expland](https://github.com/NoeCoOfficial/Expland):** A game in development. Check out our progress if you’re interested!
 
 
 ---
