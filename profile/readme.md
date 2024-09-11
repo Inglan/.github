@@ -8,6 +8,7 @@ We are a team of three developers looking to find joy in making video games. Cur
 > > GitHub: [@sebashtioon](https://github.com/sebashtioon)</br>
 ### Tristan Taylor (GoatsAreTB)
 > Tristan is 14 years old and unlike Seb, enjoys making game assets rather than coding, as well as being skilled in [Blender](https://www.blender.org/), [Soundtrap](https://www.soundtrap.com/musicmakers) and paperwork. Tristan is our main source of ideas for the team. He is great at making lore, storyboarding and game planning. He is very enthusiastic about one of our upcoming games, **Expland**, and is putting in a lot of effort into it. His favorite video game is **Subnautica**.
+> > Discord: [@goatsaretb_51107](https://discord.com/users/1188276399048503346)</br>
 > > GitHub: [@GoatsAreTB](https://github.com/GoatsAreTB)</br>
 ### Erik Miller (BobMcBobFacey1)
 > Erik is 14 years old and loves making pixel art and music for the team. He holds skills in [Pixilart](https://www.pixilart.com/) and [Soundtrap](https://www.soundtrap.com/musicmakers).
